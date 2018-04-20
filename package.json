@@ -1,0 +1,22 @@
+{
+  "name": "waypoint",
+  "version": "1.0.0",
+  "description": "Front End Application for Project Waypoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectwaypoint/waypoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectwaypoint/waypoint/issues"
+  },
+  "homepage": "https://github.com/projectwaypoint/waypoint#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
